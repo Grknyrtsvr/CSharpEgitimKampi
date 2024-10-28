@@ -13,7 +13,7 @@ namespace _10_DatabaseCrud
         static void Main(string[] args)
         {
 
-            Console.WriteLine("***** Menü Sipariş İşlem Paneli *****");
+            Console.WriteLine("****** Menü Sipariş İşlem Paneli ******");
             Console.WriteLine();
             #region Kategori ekleme işlemi
 
